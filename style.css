@@ -1,0 +1,35 @@
+body {
+        width: 800px;
+        background: #eef1f8;
+        font-family: Geneva, Arial, Helvetica, sans-serif;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+p {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+h1 {
+        font-size: 21px;
+    }
+    
+h2 {
+        font-size: 18px;
+    }
+    
+.float-right {
+        float: right;
+        margin: 7px 7px;
+    }
+    
+.header {
+        width: 600px;
+        padding-bottom: 65px;
+    }
+    
+.social-button {
+		margin-left: auto;
+		margin-right: auto;
+		
+}
